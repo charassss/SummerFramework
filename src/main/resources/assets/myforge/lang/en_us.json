@@ -1,0 +1,12 @@
+{
+  "item.myforge.uranium_ingot": "Uranium Ingot",
+
+  "item.myforge.uranium_sword": "Uranium Sword",
+
+  "item.myforge.uranium_apple": "Uranium Apple",
+
+
+  "itemGroup.material_group": "Materials",
+  "itemGroup.tool_group": "Tools",
+  "itemGroup.food_group": "Foods"
+}

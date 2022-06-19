@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "myforge:block/uranium_block_model" }
+  }
+}

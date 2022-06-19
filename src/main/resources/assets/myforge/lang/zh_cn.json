@@ -1,0 +1,12 @@
+{
+  "item.myforge.uranium_ingot": "铀锭",
+
+  "item.myforge.uranium_sword": "铀剑",
+
+  "item.myforge.uranium_apple": "铀苹果",
+
+
+  "itemGroup.material_group": "材料",
+  "itemGroup.tool_group": "工具",
+  "itemGroup.food_group": "食物"
+}
